@@ -1,7 +1,7 @@
 {
     "name": "asx/phpunit-sample",
 	"description": "Asx PHPUnit Test Sample for-self.",
-    "license": "MiT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Asx"
