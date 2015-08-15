@@ -1,0 +1,14 @@
+{
+    "name": "Asc/PHPUnitSample",
+	"description": "Asc PHPUnit Test Sample for-self.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asc"
+        }
+    ],
+	"autoload": {
+        "psr-4": {"Psy\\": "src/"}
+    }
+    
+}
