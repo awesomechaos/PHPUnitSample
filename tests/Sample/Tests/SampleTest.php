@@ -2,7 +2,7 @@
 
 namespace Sample\Tests;
 
-use Sample\Common\Sample;
+use Sample\Sample;
 use Sample\Tests\SampleTestCase;
 
 class SampleTest extends SampleTestCase

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sample\Common;
+namespace Sample;
 
 class Sample
 {
